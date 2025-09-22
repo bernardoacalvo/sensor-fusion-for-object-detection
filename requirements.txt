@@ -1,0 +1,7 @@
+nuscenes-devkit
+open3d
+torch
+torchvision
+ultralytics
+supervision
+imageio
